@@ -7,10 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>Nick</code> is a smart fool.
+          <code>Elyse</code> is a boss ass bitch.
         </p>
         <a className="App-link" href="https://random.dog" target="_blank" rel="noopener noreferrer">
-          Learn React
+          Click for a surprise!
         </a>
       </header>
     </div>
